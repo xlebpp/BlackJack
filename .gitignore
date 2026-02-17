@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.nupkg
+packages/
+Thumbs.db
